@@ -1,8 +1,7 @@
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Link
+  Route
 } from "react-router-dom";
 import Home from "./pages/Home";
 import BasicLoan from './pages/Loan'
@@ -13,9 +12,6 @@ function App() {
       <Switch>
           <Route path="/loan/basic">
             <BasicLoan />
-          </Route>
-          <Route path="/users">
-
           </Route>
           <Route path="/" exact>
             <Home />
