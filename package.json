@@ -1,6 +1,6 @@
 {
   "name": "financial-calculator",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "private": false,
   "dependencies": {
     "cra-template": "1.1.2",
@@ -39,7 +39,7 @@
     "postcss": "^8.3.6",
     "tailwindcss": "^2.2.7"
   },
-  "keywords": [],
+  "keywords": ["React", "Tailwindcss", "Financial Calculator"],
   "author": "Rex-Arnab",
   "license": "ISC",
   "homepage": "."
