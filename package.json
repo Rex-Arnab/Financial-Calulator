@@ -33,5 +33,13 @@
       "last 1 safari version"
     ]
   },
+  "devDependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.6",
+    "tailwindcss": "^2.2.7"
+  },
+  "keywords": [],
+  "author": "Rex-Arnab",
+  "license": "ISC",
   "homepage": "."
 }
