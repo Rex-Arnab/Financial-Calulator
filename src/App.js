@@ -13,6 +13,15 @@ function App() {
           <Route path="/loan/basic">
             <BasicLoan />
           </Route>
+          <Route path="/loan/basic/report">
+            <BasicLoan />
+          </Route>
+          <Route path="/loan/basic/graph">
+            <BasicLoan />
+          </Route>
+          <Route path="/loan/basic/save">
+            <BasicLoan />
+          </Route>
           <Route path="/" exact>
             <Home />
           </Route>
